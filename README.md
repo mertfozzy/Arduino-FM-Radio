@@ -1,4 +1,4 @@
-![schematic](https://github.com/mertfozzy/Arduino-FM-Radio/blob/main/mert's%20circuit/schematic.jpg?raw=true)
+![schematic](https://github.com/mertfozzy/Arduino-FM-Radio/blob/main/photo.jpg?raw=true)
 # Arduino-FM-Radio
 Beykoz University Computer Engineering
 
