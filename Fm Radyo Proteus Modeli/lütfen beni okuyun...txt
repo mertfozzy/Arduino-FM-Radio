@@ -1,0 +1,6 @@
+Merhabalar hocam.
+
+Simülasyon sizin bilgisayarınızda çalışmayabilir, 
+Arduino ide üzerinden compile edilip Proteusda entegre edilmesi gerekiyor.
+
+Sizin için simülasyonun çalışan fotoğrafını klasöre ekledim. :)
